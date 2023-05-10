@@ -91,3 +91,7 @@ production:
   database: collabfield_production
   username: collabfield
   password: <%= ENV['COLLABFIELD_DATABASE_PASSWORD'] %>
+
+
+# Git token
+# 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
